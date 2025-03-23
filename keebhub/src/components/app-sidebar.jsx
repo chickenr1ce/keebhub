@@ -80,7 +80,7 @@ const data = {
         },
         {
           title: "For You",
-          url: "#",
+          url: "/social",
         },
       ],
     },
